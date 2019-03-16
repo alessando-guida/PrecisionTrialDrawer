@@ -8,7 +8,7 @@ Maintainer: Giorgio Melloni <melloni.giorgio@gmail.com>
 Description:A suite of methods to design umbrella and basket trials for preision oncology.
 License: GPL-3
 Depends:
-    R (>= 3.6)
+    R (>= 3.5)
 Imports:
     graphics,
     grDevices,
